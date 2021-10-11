@@ -11,7 +11,7 @@
                     <div class="uk-card uk-card-default uk-card uk-card-hover">
                         <div class="uk-card-media-top">
                                 <div class="uk-animation-toggle">
-                                        <div class="uk-card uk-card-default uk-card-body uk-animation-fade uk-animation">
+                                        <div class="uk-card uk-card-default uk-card-body uk-animation-fade uk-animation-blink">
                                 {% if picture.image %}
                             <img src="{{picture.image.url}}" alt="image ">
                             {% endif %}
@@ -19,7 +19,7 @@
                     </div>
                 </div>
                         <div class="uk-card-footer">
-                                <a href="{%url 'image' picture.id%}" class="uk-button uk-button-text">EXPLORE</a>
+                                <a href="{%url 'image' picture.id%}" class="uk-button uk-button-text", style="text-align:center">EXPLORE</a>
                             </div>    
                     </div>
                    

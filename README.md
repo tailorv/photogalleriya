@@ -1,9 +1,7 @@
 # PHOTOSHOP
 
-
-
 ## Description
-This is application that you display your photos for others to see.
+This is an application that you displays your gallery photos for others to see.
 
 ## User Stories
 As a user of the application I should be able to:

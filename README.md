@@ -11,10 +11,11 @@ This is an application that displays your gallery photos for others to see.
 
 # As a user of the application I should be able to:
 
-* Upload my pictures to the application.
-* See my profile with all my pictures.
-* Follow other users and see their pictures on my timeline.
-* Like a picture and leave a comment on it.
+* View different photos that interest me.
+* Click on a single photo to expand it and also view the details of the photo. The photo details    must appear on a modal within the same route as the main page.
+* Search for different categories of photos. (ie. Travel, Food)
+* Copy a link to the photo to share with my friends.
+* View photos based on the location they were taken.
 
 ## Setup/Installation Requirements
 

@@ -1,4 +1,4 @@
-# PHOTOSHOP
+# PHOTOGALLERIYA
 
 ## Description
 This is an application that displays your gallery photos for others to see.

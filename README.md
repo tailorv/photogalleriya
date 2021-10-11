@@ -29,7 +29,7 @@ This is an application that displays your gallery photos for others to see.
 ### Installation Process
 1. Copy repolink
 2. Run `git clone REPO-URL` in your terminal
-3. Write `cd photoshop`
+3. Write `cd photogalleriya`
 4. Create a virtual environment with `virtualenv virtual` or try `python3 -m venv virtual`
 5. Create .env file `touch .env` and add the following:
 ```
@@ -42,14 +42,14 @@ DEBUG=True
 
 ```
 psql
-CREATE DATABASE photoshop
+CREATE DATABASE photogallerya
 ```
-9. Change the database informatioin in `/settings.py`
+9. Check the database informatioin in `/settings.py`
 ```
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'photoshop',
+        'NAME': 'photogallerya',
         'USER': *POSTGRES_USERNAME*,
         'PASSWORD': *POSTGRES_USERNAME*,
     }

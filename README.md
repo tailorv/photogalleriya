@@ -7,11 +7,12 @@ This is application that you display your photos for others to see.
 
 ## User Stories
 As a user of the application I should be able to:
-* View different photos that interest me.
-* Click on a single photo to expand it and also view the details of the photo.
-* Search for different categories of photos. (ie. people,transport)
-*Copy a link to the photo to share with my friends.
-* View photos based on the location they were taken.
+
+*Sign in to the application to start using.
+*Upload my pictures to the application.
+*See my profile with all my pictures.
+*Follow other users and see their pictures on my timeline.
+*Like a picture and leave a comment on it.
 
 ## Setup/Installation Requirements
 

@@ -53,7 +53,8 @@ DATABASES = {
 10. Run `./manage.py runserver` or `python3.8 manage.py runserver` to run the application
 
 ## Support and Contacts
-
+* EMAIL:
+ * maxwellmuthomijr@gmail.com
 
 ## Known Bugs
 

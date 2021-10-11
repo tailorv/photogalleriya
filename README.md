@@ -38,7 +38,7 @@ DEBUG=True
 
 ```
 psql
-CREATE DATABASE pixwall
+CREATE DATABASE photoshop
 ```
 9. Change the database informatioin in `/settings.py`
 ```

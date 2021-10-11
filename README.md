@@ -3,6 +3,9 @@
 ## Description
 This is an application that displays your gallery photos for others to see.
 
+![alt text](screenshots/home.png)
+
+
 ## User Stories
 As a user of the application I should be able to:
 

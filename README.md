@@ -3,7 +3,7 @@
 ## Description
 This is an application that displays your gallery photos for others to see.
 
-![HOME PAGE] (screenshots/home1.png)
+![HOME PAGE](screenshots/home1.png)
 
 ![alt text](screenshots/HOME.mp4)
 

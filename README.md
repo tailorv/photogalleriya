@@ -5,6 +5,14 @@ This is an application that displays your gallery photos for others to see.
 
 ![HOME PAGE](screenshots/home1.png)
 
+
+
+
+https://user-images.githubusercontent.com/53800104/137004175-80781721-c2c3-49e0-96ce-ddfce660c740.mp4
+
+
+
+
 ## User Stories
 
 
